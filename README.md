@@ -1,7 +1,7 @@
 # ZabbixでOCI Dbaas監視 - エージェント設定
 
 ### 設定手順については以下のリンクを参照
-
+https://qiita.com/y-araki-qiita/items/f25e02182c7f279c0199
 ### 監視追加方法については以下のリンクを参照
 
 ### このリポジトリの構成
