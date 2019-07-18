@@ -1,20 +1,20 @@
-# Zabbix‚ÅOCI DbaasŠÄ‹ - ƒG[ƒWƒFƒ“ƒgİ’è
+# Zabbixã§OCI Dbaasç›£è¦– - ã‚¨ãƒ¼ã‚¸ã‚§ãƒ³ãƒˆè¨­å®š
 
-### İ’èè‡‚É‚Â‚¢‚Ä‚ÍˆÈ‰º‚ÌƒŠƒ“ƒN‚ğQÆ
+### è¨­å®šæ‰‹é †ã«ã¤ã„ã¦ã¯ä»¥ä¸‹ã®ãƒªãƒ³ã‚¯ã‚’å‚ç…§
 
-### ŠÄ‹’Ç‰Á•û–@‚É‚Â‚¢‚Ä‚ÍˆÈ‰º‚ÌƒŠƒ“ƒN‚ğQÆ
+### ç›£è¦–è¿½åŠ æ–¹æ³•ã«ã¤ã„ã¦ã¯ä»¥ä¸‹ã®ãƒªãƒ³ã‚¯ã‚’å‚ç…§
 
-### ‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚Ì\¬
+### ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã®æ§‹æˆ
 
 monitoring-oci-dbaas  
-„¥deploy_zabbix.sh (zabbix agent‚ÅÀs‚·‚éDbaasŠÄ‹İ’èƒXƒNƒŠƒvƒg)  
-„¥README.md  
-„¥template_oci_dbaas.xml (zabbixƒRƒ“ƒ\[ƒ‹‚ÅƒCƒ“ƒ|[ƒg‚·‚éƒeƒ“ƒvƒŒ[ƒg)  
-„¤zabbix-oci-dbaas (/etc/zabbix/scripts/agentd/zabbix-oci-dbaas/”z‰º‚É”z’u‚³‚ê‚éƒtƒ@ƒCƒ‹‚ğŠi”[)  
-    „¥zabbix_agentd.conf (UserParameter‚Ìİ’è)  
-    „¥zabbix-oci-dbaas.conf.org (OracleDBŠÄ‹—pƒ†[ƒU)  
-    „¥zabbix-oci-dbaas.oraenv.org (zabbix-oci-dbaasÀs ŠÂ‹«•Ï”İ’èƒtƒ@ƒCƒ‹)  
-    „¥zabbix-oci-dbaas.sh (zabbix-oci-dbaas‚Ìİ’è‚ğ”z’u‚·‚éƒXƒNƒŠƒvƒg)  
-    „¤sql(ŠÄ‹ƒAƒCƒeƒ€æ“¾sql‚ğŠi”[)  
-        „¥xxx.sql  
-        c
+â”œdeploy_zabbix.sh (zabbix agentã§å®Ÿè¡Œã™ã‚‹Dbaasç›£è¦–è¨­å®šã‚¹ã‚¯ãƒªãƒ—ãƒˆ)  
+â”œREADME.md  
+â”œtemplate_oci_dbaas.xml (zabbixã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã§ã‚¤ãƒ³ãƒãƒ¼ãƒˆã™ã‚‹ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ)    
+â””zabbix-oci-dbaas (/etc/zabbix/scripts/agentd/zabbix-oci-dbaas/é…ä¸‹ã«é…ç½®ã•ã‚Œã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ ¼ç´)    
+&nbsp;â”œzabbix_agentd.conf (UserParameterã®è¨­å®š)  
+&nbsp;â”œzabbix-oci-dbaas.conf.org (OracleDBç›£è¦–ç”¨ãƒ¦ãƒ¼ã‚¶)  
+&nbsp;â”œzabbix-oci-dbaas.oraenv.org (zabbix-oci-dbaaså®Ÿè¡Œæ™‚ ç’°å¢ƒå¤‰æ•°è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«)  
+&nbsp;â”œzabbix-oci-dbaas.sh (zabbix-oci-dbaasã®è¨­å®šã‚’é…ç½®ã™ã‚‹ã‚¹ã‚¯ãƒªãƒ—ãƒˆ)  
+&nbsp;â””sql(ç›£è¦–ã‚¢ã‚¤ãƒ†ãƒ å–å¾—sqlã‚’æ ¼ç´)  
+&nbsp;â”œxxx.sql  
+&nbsp;â€¦
