@@ -11,10 +11,10 @@ monitoring-oci-dbaas
 ├README.md  
 ├template_oci_dbaas.xml (zabbixコンソールでインポートするテンプレート)    
 └zabbix-oci-dbaas (/etc/zabbix/scripts/agentd/zabbix-oci-dbaas/配下に配置されるファイルを格納)    
-&nbsp;├zabbix_agentd.conf (UserParameterの設定)  
-&nbsp;├zabbix-oci-dbaas.conf.org (OracleDB監視用ユーザ)  
-&nbsp;├zabbix-oci-dbaas.oraenv.org (zabbix-oci-dbaas実行時 環境変数設定ファイル)  
-&nbsp;├zabbix-oci-dbaas.sh (zabbix-oci-dbaasの設定を配置するスクリプト)  
-&nbsp;└sql(監視アイテム取得sqlを格納)  
-&nbsp;├xxx.sql  
-&nbsp;…
+&nbsp;&emsp├zabbix_agentd.conf (UserParameterの設定)  
+&nbsp;&emsp├zabbix-oci-dbaas.conf.org (OracleDB監視用ユーザ)  
+&nbsp;&emsp├zabbix-oci-dbaas.oraenv.org (zabbix-oci-dbaas実行時 環境変数設定ファイル)  
+&nbsp;&emsp├zabbix-oci-dbaas.sh (zabbix-oci-dbaasの設定を配置するスクリプト)  
+&nbsp;&emsp└sql(監視アイテム取得sqlを格納)  
+&nbsp;&emsp├xxx.sql  
+&nbsp;&emsp…
